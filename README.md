@@ -6,18 +6,21 @@ En la carpeta Arduino 11 están todos los archivos del dispositivo móvil para e
 
 El archivo SilentKiller es el backup con toda las tablas e información que se necesita.
 
-![registrar](https://user-images.githubusercontent.com/69564165/131423630-936a8319-02b3-4b8e-a65c-14a4512492e9.png)
+![uno](https://user-images.githubusercontent.com/69564165/131598022-8fae4963-b27a-4a12-bd94-8d52e647a1ba.png)
+![dos](https://user-images.githubusercontent.com/69564165/131598521-01119d84-218d-49c6-b851-14e3ee8f2488.png)
+![tres](https://user-images.githubusercontent.com/69564165/131598528-09266e68-8a6c-4275-a079-e9f14de9437a.png)
+![cuatro](https://user-images.githubusercontent.com/69564165/131598533-6dcf0c4e-643e-4402-81f7-a93e566c6b7a.png)
+![ocho](https://user-images.githubusercontent.com/69564165/131598627-192fc0d8-e08d-491f-ae6c-40b4702cede8.png)
+![nueve](https://user-images.githubusercontent.com/69564165/131598642-8787748a-8994-4c22-a693-8995843febda.png)
+![sies](https://user-images.githubusercontent.com/69564165/131598693-5bfa4db9-4eaf-4517-9458-e70f34587e7e.png)
+![siete](https://user-images.githubusercontent.com/69564165/131598747-68863d83-c3e3-4ff3-8eee-f6aa033057da.png)
 
-![Interfaz principal](https://user-images.githubusercontent.com/69564165/131423566-6459afc8-455a-4947-ad98-7ec7b71454e8.png)
-![Interfaz notificaciones](https://user-images.githubusercontent.com/69564165/131423580-f5e8e6f6-d202-4ff5-a323-9bc3db0db5df.png)
 
-![nuevocr](https://user-images.githubusercontent.com/69564165/131425497-ed22428b-ffd0-408e-8e99-3ba22a584c67.png)
+![once](https://user-images.githubusercontent.com/69564165/131598705-dc05018b-834c-4dd4-ba27-2173b9c39d72.png)
 
-![Interfaz pasivo](https://user-images.githubusercontent.com/69564165/131423751-956b6784-0980-4e29-bdd6-b6b6e85c70a8.png)
-![Interfaz linea](https://user-images.githubusercontent.com/69564165/131423763-63c80cdf-1fbe-4a1d-94e2-0f138b6985a6.png)
-![Interfaz barra](https://user-images.githubusercontent.com/69564165/131423795-86206387-57c2-4231-8b77-470d9f4b1e2a.png)
-![Interfas movimiento activo ](https://user-images.githubusercontent.com/69564165/131424780-d18a2c00-7dce-48b5-9d9d-c418cf4ac904.png)
-![prototipo fisico por partes](https://user-images.githubusercontent.com/69564165/131424803-52ac9cdd-14bb-4169-a99b-320bae689407.png)
+![doce](https://user-images.githubusercontent.com/69564165/131598753-86e50b05-4f87-4d54-a841-24555ebae82a.png)
+
+
 
 
 
