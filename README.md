@@ -16,9 +16,9 @@ El archivo SilentKiller es el backup con toda las tablas e información que se n
 ![siete](https://user-images.githubusercontent.com/69564165/131598747-68863d83-c3e3-4ff3-8eee-f6aa033057da.png)
 
 
-![once](https://user-images.githubusercontent.com/69564165/131598705-dc05018b-834c-4dd4-ba27-2173b9c39d72.png)
+![Notifications](https://user-images.githubusercontent.com/69564165/131707848-b8dd74d2-aee8-4196-9b98-8887318e67f0.png)
+![Real-time graphics interface enabled](https://user-images.githubusercontent.com/69564165/131707862-cda700c7-d411-4c0b-b94e-a36177e24a83.png)
 
-![doce](https://user-images.githubusercontent.com/69564165/131598753-86e50b05-4f87-4d54-a841-24555ebae82a.png)
 
 
 
